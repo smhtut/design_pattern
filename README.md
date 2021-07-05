@@ -1,5 +1,3 @@
 # design_pattern
 
-Summarized of Java Design Patterns - Vaskaran Sarcar 
-
-Singleton
+This Repository is about design patterns in java
